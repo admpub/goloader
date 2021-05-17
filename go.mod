@@ -1,3 +1,3 @@
-module github.com/pkujhd/goloader
+module github.com/admpub/goloader
 
 go 1.8
